@@ -151,7 +151,7 @@
   });
 
   $(".sub-title").typed({
-    strings: ["Web Developer", "Latina", "happy to meet you!"],
+    strings: ["a Web Developer", "Latina", "happy to meet you!"],
     typeSpeed: 1,
     backSpeed: 1,
     backDelay: 1400,
